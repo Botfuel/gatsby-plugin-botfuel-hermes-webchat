@@ -5,7 +5,7 @@ Powered by [botfuel.io](https://www.botfuel.io)
 
 ## Install
 
-`npm i gatsby-plugin-botfuel-hermes-webchat`
+`npm i https://github.com/Botfuel/gatsby-plugin-botfuel-hermes-webchat.git`
 
 ## How to use
 
