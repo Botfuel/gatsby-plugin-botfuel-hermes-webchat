@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-plugin-botfuel-hermes-webchat",
+  "version": "1.0.0",
+  "description": "Botfuel Hermes Webchat integration for Gatsby",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "botfuel",
+    "chatbot"
+  ],
+  "author": "botfuel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botfuel/gatsby-plugin-botfuel-hermes-webchat"
+  }
+}
