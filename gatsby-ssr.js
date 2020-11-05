@@ -1,7 +1,7 @@
 const { default: BotfuelWebChat } = require("./src/BotfuelWebChat");
 
 function plugin({ setPostBodyComponents }, pluginOptions = {}) {
-  const botfuelWebchat = new BotfuelWebChat(pluginOptions);
+  const botfuelWebchat = BotfuelWebChat(pluginOptions);
 
   setPostBodyComponents([
     botfuelWebchat,
