@@ -3,8 +3,7 @@
   "version": "1.0.1",
   "description": "Botfuel Hermes Webchat integration for Gatsby",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "gatsby",
     "gatsby-plugin",
